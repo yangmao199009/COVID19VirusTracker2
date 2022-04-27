@@ -1,7 +1,7 @@
 package com.example.coronoVirusTracker.services;
 
 
-import com.example.coronoVirusTracker.model.LocationStats;
+import com.example.COVID19VirusTracker.model.LocationStats;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVRecord;
 import org.springframework.stereotype.Service;
